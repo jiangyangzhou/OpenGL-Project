@@ -1,0 +1,6 @@
+D:/Coding/CG/my_cg3/CMakeFiles/STB_IMAGE.dir
+D:/Coding/CG/my_cg3/CMakeFiles/GLAD.dir
+D:/Coding/CG/my_cg3/CMakeFiles/my_cg1.dir
+D:/Coding/CG/my_cg3/CMakeFiles/my_cg2.dir
+D:/Coding/CG/my_cg3/CMakeFiles/ALL_BUILD.dir
+D:/Coding/CG/my_cg3/CMakeFiles/ZERO_CHECK.dir
